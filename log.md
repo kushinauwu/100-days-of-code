@@ -12,8 +12,10 @@
 
 
 **Today's Progress**: Finished html stuff. Started working on CSS functionalities. Learning how to overwrite styles.
+*Edit:* Finishd the CSS course on freecodecamp.
 
 **Thoughts**: This is fun. Also, BTS and programming is a good combination. For some reason it was easier to concentrate with Fire in the background ahhhhaha. I'll update again when i get back to programming.
+*Edit:* I feel like I can do a lot of cool shit with this. I'll start with Bootstrap tommorrow. Productive affff
 
 **Link(s) to work**: https://www.freecodecamp.org/challenges/override-styles-in-subsequent-css
 
