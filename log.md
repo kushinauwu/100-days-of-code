@@ -1,21 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 1: July 17, 2017
+### Day 1: July 16, 2017
 <!--##### (delete me or comment me out)-->
 
 **Today's Progress**: Figuring out how to fork repositories. STarted freecodecamp's front end dev course.
 
-**Thoughts:** Fook I'm sleepy
+**Thoughts:** Fook I'm sleepy. Not a lot was done today.
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: Juy 17th 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Finished html stuff. Started working on CSS functionalities. Learning how to overwrite styles.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: This is fun. Also, BTS and programming is a good combination. For some reason it was easier to concentrate with Fire in the background ahhhhaha. I'll update again when i get back to programming.
+
+**Link(s) to work**: https://www.freecodecamp.org/challenges/override-styles-in-subsequent-css
 
 
 ### Day 1: June 27, Monday
