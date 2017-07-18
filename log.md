@@ -2,14 +2,12 @@
 
 ### Day 1: July 16, 2017
 <!--##### (delete me or comment me out)-->
-
 **Today's Progress**: Figuring out how to fork repositories. STarted freecodecamp's front end dev course.
 
 **Thoughts:** Fook I'm sleepy. Not a lot was done today.
 
 
 ### Day 2: Juy 17th 2017
-
 
 **Today's Progress**: Finished html stuff. Started working on CSS functionalities. Learning how to overwrite styles.
 *Edit:* Finishd the CSS course on freecodecamp.
@@ -20,12 +18,8 @@
 **Link(s) to work**: https://www.freecodecamp.org/challenges/override-styles-in-subsequent-css
 
 
-### Day 1: June 27, Monday
+### Day 3: Juy 18th 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: tried replacing basic CSS stuff with bootstrap
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: This is easer than I thought! 
