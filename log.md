@@ -23,3 +23,10 @@
 **Today's Progress**: tried replacing basic CSS stuff with bootstrap
 
 **Thoughts**: This is easer than I thought! 
+
+
+### Day 4: Juy 19th 2017
+
+**Today's Progress**: Learned about bootstrap classes. 
+
+**Thoughts**: the columns and rows stuff was a little difficult at first glance,  but meh it seems doable now.
